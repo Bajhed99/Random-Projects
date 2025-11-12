@@ -1,4 +1,3 @@
-<script>
 function updateMap(location, element) {
   document.getElementById('dynamicMap').src = `https://maps.google.com/maps?q=${encodeURIComponent(location)}&output=embed`;
 
@@ -22,4 +21,3 @@ function useCurrentLocation() {
     alert('Geolocation is not supported by your browser.');
   }
 }
-</script>
