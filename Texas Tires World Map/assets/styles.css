@@ -35,7 +35,7 @@
   cursor: pointer;
   margin-bottom: 10px;
 }
-.location-search-btn-wraper {
+.location-search-btn-wrapper {
   background-color: transparent;
   padding: 3px;
   margin: 3px 0;
@@ -44,8 +44,8 @@
   cursor: pointer;
   transition: 0.3s;
 }
-.location-search-btn-wraper.active,
-.location-search-btn-wraper:hover {
+.location-search-btn-wrapper.active,
+.location-search-btn-wrapper:hover {
   border: #ffec23 1px solid;
   scale: 1.05;
   border-radius: 52px;
@@ -175,7 +175,6 @@
   border: none;
   padding: 15px 10px;
   border-radius: 50px;
-  font-family: 'Dela Gothic One', sans-serif;
   font-size: 20px;
   font-weight: 400;
   color: #000;
@@ -183,7 +182,7 @@
   cursor: pointer;
   margin-bottom: 10px;
 }
-.location-search-btn-wraper {
+.location-search-btn-wrapper {
   background-color: transparent;
   padding: 3px;
   margin: 3px 0;
@@ -192,8 +191,8 @@
   cursor: pointer;
   transition: 0.3s;
 }
-.location-search-btn-wraper.active,
-.location-search-btn-wraper:hover {
+.location-search-btn-wrapper.active,
+.location-search-btn-wrapper:hover {
   border: #ffec23 1px solid;
   scale: 1.05;
   border-radius: 52px;
